@@ -1,0 +1,15 @@
+h3{
+    font-size: 70px;
+    text-align: right;
+    color: brown;
+}
+.nav{
+    list-style-type: none ;
+    background-color: darkorange;
+    text-align: center;
+}
+.nav li{
+    display: inline-block;
+    padding: 20px;
+    font-size: 20px;
+}
